@@ -1,0 +1,27 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+
+.container {
+	position: relative;
+	color: black;
+	min-width: 1000px;
+}
+
+.col {
+	border: 1px black solid;
+}
+
+.row {
+	text-align: center;
+}
+
+.negritas {
+	font-weight: bold;
+}
+
+.importante {
+	background-color: #B2FBAB;
+}
